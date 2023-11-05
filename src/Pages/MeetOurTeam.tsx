@@ -26,7 +26,7 @@ function MeetOurTeam() {
         {
             name: 'Tharuka Gayashan F.',
             position: 'Group Member',
-            image: 'https://scontent.fcmb11-1.fna.fbcdn.net/v/t39.30808-6/349364121_1284978479042530_27822648509990893_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHSqYf9nlpX9OZCcOV0AHgVkbjV5aTV7sKRuNXlpNXuwnM46ljP4_igbLqJy51Kjh7dKLRgeWQv0FP2bRStMgNz&_nc_ohc=9y424mk3PyIAX_7zNwE&_nc_zt=23&_nc_ht=scontent.fcmb11-1.fna&oh=00_AfD1dh6LYwSK0wgbQ3Ijs51ghZsSLlJz3OWJk4Gyu3sQpg&oe=65404D5A',
+            image: 'https://github.com/SLIIT-Project-ORG/Ayusha_Helawedakama_Online_Platform/blob/master/gayashan.jpg?raw=true',
             department: 'Computer Science & Software Engineering'
         },
         
@@ -39,7 +39,7 @@ function MeetOurTeam() {
         {
             name: 'Abeywardhanage S.R.D',
             position: 'Group Member',
-            image: 'https://scontent.fcmb11-1.fna.fbcdn.net/v/t39.30808-6/385816115_1050378159438235_852375703076536882_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeERsO7Z2mn4Ft9-UBq2aTGM9HLP8p2Tj_j0cs_ynZOP-C_ndD-NZUXB84jEcZy1t5zx5whb__ffkMHc5mQpHMtg&_nc_ohc=ClfG6hPwnkwAX-tQFHi&_nc_zt=23&_nc_ht=scontent.fcmb11-1.fna&oh=00_AfC_x7AV50-HAzwz_N8y-nLgsSxTctHTib6LHj_chBuktw&oe=65417B3A',
+            image: 'https://github.com/SLIIT-Project-ORG/Ayusha_Helawedakama_Online_Platform/blob/master/sachini.jpg?raw=true',
             department: 'Computer Science & Software Engineering'
         },
     ]

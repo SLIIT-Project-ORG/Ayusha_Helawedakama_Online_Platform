@@ -78,7 +78,7 @@ function Downloads() {
             name: 'Final Presentation',
             submittionDate: '2023-09-28',
             grouporindi: 'Group',
-            link: ''
+            link: 'https://docs.google.com/presentation/d/1RDEiC8rj2Ewe3B14boyKTM93KGEIsdkX/edit?usp=sharing&ouid=115625229743362297140&rtpof=true&sd=true'
         }
     ]
 
