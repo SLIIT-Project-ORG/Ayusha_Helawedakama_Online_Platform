@@ -1,6 +1,6 @@
 # HELA WEDAKAMA APPLICATION TO GUIDE PATIENTS AND NATIVE PHYSICIANS
 
-### [Live Site](https://listened.netlify.app/)
+### [Live Site](https://ayusha-helawedakama.netlify.app/index.html)
 
 
 ## Features
