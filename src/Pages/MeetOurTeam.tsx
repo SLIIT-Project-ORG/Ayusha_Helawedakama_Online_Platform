@@ -26,7 +26,7 @@ function MeetOurTeam() {
         {
             name: 'Tharuka Gayashan F.',
             position: 'Group Member',
-            image: 'https://github.com/SLIIT-Project-ORG/Ayusha_Helawedakama_Online_Platform/blob/master/gayashan.jpg?raw=true',
+            image: 'src/images/1cv.jpg',
             department: 'Computer Science & Software Engineering'
         },
         
