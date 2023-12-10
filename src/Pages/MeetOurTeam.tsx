@@ -20,7 +20,7 @@ function MeetOurTeam() {
         {
             name: 'kumara V.G.A.P',
             position: 'Group Leader',
-            image: '',
+            image: 'src/images/1cv.jpg',
             department: 'Computer Science & Software Engineering'
         },
         {
