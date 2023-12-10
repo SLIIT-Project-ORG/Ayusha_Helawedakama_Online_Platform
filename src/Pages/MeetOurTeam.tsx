@@ -20,13 +20,13 @@ function MeetOurTeam() {
         {
             name: 'kumara V.G.A.P',
             position: 'Group Leader',
-            image: 'https://github.com/SachiniRasanga/RP_Project_mobile_app/blob/master/ashan.png?raw=true',
+            image: 'https://github.com/SLIIT-Project-ORG/Ayusha_Helawedakama_Online_Platform/blob/12396dd00705d44c69346817905d50978310ee2f/src/images/1cv.jpg',
             department: 'Computer Science & Software Engineering'
         },
         {
             name: 'Tharuka Gayashan F.',
             position: 'Group Member',
-            image: 'src/images/1cv.jpg',
+            image: '',
             department: 'Computer Science & Software Engineering'
         },
         
