@@ -20,7 +20,7 @@ function MeetOurTeam() {
         {
             name: 'kumara V.G.A.P',
             position: 'Group Leader',
-            image: 'https://github.com/SLIIT-Project-ORG/Ayusha_Helawedakama_Online_Platform/commits/master/src/images/cv.jpg',
+            image: 'https://media.licdn.com/dms/image/D5603AQHavlkKl0_c2w/profile-displayphoto-shrink_400_400/0/1702187344773?e=1707955200&v=beta&t=pePwOiVN-amltjlCUENbmv1X-IcVumUgrzTJCyfmZf8',
             department: 'Computer Science & Software Engineering'
         },
         {
