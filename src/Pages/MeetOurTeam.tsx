@@ -20,13 +20,13 @@ function MeetOurTeam() {
         {
             name: 'kumara V.G.A.P',
             position: 'Group Leader',
-            image: 'https://github.com/SLIIT-Project-ORG/Ayusha_Helawedakama_Online_Platform/blob/12396dd00705d44c69346817905d50978310ee2f/src/images/1cv.jpg',
+            image: '',
             department: 'Computer Science & Software Engineering'
         },
         {
             name: 'Tharuka Gayashan F.',
             position: 'Group Member',
-            image: '',
+            image: 'https://media.licdn.com/dms/image/D5603AQH0oLUte8ebqg/profile-displayphoto-shrink_400_400/0/1685883720092?e=1707955200&v=beta&t=u74s97Tto9ZQpLhK04AxDMJ-h7UM_ETO4DiyPlonDOc',
             department: 'Computer Science & Software Engineering'
         },
         
